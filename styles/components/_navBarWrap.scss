@@ -1,0 +1,11 @@
+.navBarWrap {
+    width: 100%;
+    position: sticky;
+    top: 0px;
+    left: 0px;
+    z-index: 100;
+
+    .logoWrap {
+        padding: 5px;
+    }
+}
